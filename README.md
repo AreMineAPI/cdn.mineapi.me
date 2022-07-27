@@ -1,1 +1,1 @@
-# vcodes-cdn
+- https://cdn.mineapi.me
